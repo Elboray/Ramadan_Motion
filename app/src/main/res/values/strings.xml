@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ramadan_Motion</string>
+    <string name="_1_ramadan_1444">1 Ramadan, 1444</string>
+    <string name="wednesday_22_march">Wednesday, 23 March</string>
+    <string name="tip_of_the_day">Today\'s Tip</string>
+    <string name="be_mindful_use_the_time_during_ramadan_to_focus_on_your_spiritual_practice_meditation_and_mindfulness">Be mindful: Use the time during Ramadan to focus on your spiritual practice, meditation, and mindfulness.</string>
+    <string name="today_s_prayer">Today\'s prayer</string>
+    <string name="thirst_is_gone">Thirst is gone, and the veins are moist, and the reward is certain, Allah willing</string>
+    <string name="prayer_time">Prayer Time</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrice">Sunrice</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="_04_12_am">04:12 AM</string>
+    <string name="_05_46_am">05:46 AM</string>
+    <string name="_12_43_pm">12:43 PM</string>
+    <string name="_03_46_pm">03:46 PM</string>
+    <string name="_06_09_pm">06:09 PM</string>
+    <string name="_07_29_pm">07:29 PM</string>
+</resources>
